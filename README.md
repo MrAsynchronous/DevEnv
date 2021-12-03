@@ -1,5 +1,3 @@
-# Scratch pad
-
 # DevEnv
 
 ## Terminal
